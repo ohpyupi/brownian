@@ -8,22 +8,22 @@ May 8th 2015.
 
 ###Nomenclature for folders
 
-average: a folder that includes codes for averaged trajectories and variance.
-dist: a folder that includes codes for probability distribution functions.
-poincare: a foler that includes codes for Poincare section graphs.
-single: a folder that includes codes for single trajectories.
+* average: a folder that includes codes for averaged trajectories and variance.
+* dist: a folder that includes codes for probability distribution functions.
+* poincare: a foler that includes codes for Poincare section graphs.
+* single: a folder that includes codes for single trajectories.
 
 ###Nomenclature for files
-fl: "fl" refers to a system used is a simulation or a paper in which the system is proposed. It's named after a main author's name, S. Flach.
-1, 2, and 3: 1, 2, and 3 refers to the certain case that determines parameters of the system.
-avg: It refers to a file associated with averaged trajectories.
-pc: It refers to a file associated with Poincare sections.
-d: It refers to a file associated with probability distribution function graphs.
-s: It refers to a file associated with single trajectories.
+* fl: "fl" refers to a system used is a simulation or a paper in which the system is proposed. It's named after a main author's name, S. Flach.
+* 1, 2, and 3: 1, 2, and 3 refers to the certain case that determines parameters of the system.
+* avg: It refers to a file associated with averaged trajectories.
+* pc: It refers to a file associated with Poincare sections.
+* d: It refers to a file associated with probability distribution function graphs.
+* s: It refers to a file associated with single trajectories.
 
 ###Example
-sfl1.c: a code file associated with single trajectoty of a case (a).
-flpc3.c: a code file associated with Poincare section of a case (c).
+* sfl1.c: a code file associated with single trajectoty of a case (a).
+* flpc3.c: a code file associated with Poincare section of a case (c).
 
 ###Usage of file
 ** My computer system was Ubuntu 14.04, one of Linux-based OS. For other OS, the compiling codes might be different.
